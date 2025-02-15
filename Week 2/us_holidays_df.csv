@@ -1,0 +1,33 @@
+countryOrRegion,holidayName,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+United States,Washington's Birthday,Washington's Birthday,TRUE,US,2/15/2016
+United States,Memorial Day,Memorial Day,TRUE,US,5/30/2016
+United States,Independence Day,Independence Day,TRUE,US,7/4/2016
+United States,Labor Day,Labor Day,TRUE,US,9/5/2016
+United States,Columbus Day,Columbus Day,FALSE,US,10/10/2016
+United States,Veterans Day,Veterans Day,FALSE,US,11/11/2016
+United States,Thanksgiving,Thanksgiving,TRUE,US,11/24/2016
+United States,Christmas Day,Christmas Day,TRUE,US,12/25/2016
+United States,Christmas Day (Observed),Christmas Day,TRUE,US,12/26/2016
+United States,New Year's Day,New Year's Day,TRUE,US,1/1/2017
+United States,New Year's Day (Observed),New Year's Day,TRUE,US,1/2/2017
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,1/16/2017
+United States,Washington's Birthday,Washington's Birthday,TRUE,US,2/20/2017
+United States,Memorial Day,Memorial Day,TRUE,US,5/29/2017
+United States,Independence Day,Independence Day,TRUE,US,7/4/2017
+United States,Labor Day,Labor Day,TRUE,US,9/4/2017
+United States,Columbus Day,Columbus Day,FALSE,US,10/9/2017
+United States,Veterans Day (Observed),Veterans Day,FALSE,US,11/10/2017
+United States,Veterans Day,Veterans Day,FALSE,US,11/11/2017
+United States,Thanksgiving,Thanksgiving,TRUE,US,11/23/2017
+United States,Christmas Day,Christmas Day,TRUE,US,12/25/2017
+United States,New Year's Day,New Year's Day,TRUE,US,1/1/2018
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,,US,1/15/2018
+United States,Washington's Birthday,Washington's Birthday,TRUE,US,2/19/2018
+United States,Memorial Day,Memorial Day,TRUE,US,5/28/2018
+United States,Independence Day,Independence Day,TRUE,US,7/4/2018
+United States,Labor Day,Labor Day,TRUE,US,9/3/2018
+United States,Columbus Day,Columbus Day,FALSE,US,10/8/2018
+United States,Veterans Day,Veterans Day,FALSE,US,11/11/2018
+United States,Veterans Day (Observed),Veterans Day,FALSE,US,11/12/2018
+United States,Thanksgiving,Thanksgiving,TRUE,US,11/22/2018
+United States,Christmas Day,Christmas Day,TRUE,US,12/25/2018
